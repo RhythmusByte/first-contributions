@@ -36,6 +36,7 @@ happy# Contributors
 - [brunoblaise](https://github.com/brunoblaise)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
+- [Neethu Hari](https://github.com/Neethuharii)
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
@@ -115,6 +116,7 @@ Gyanendra Thakur
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
 - Marcos
 - Iga Meddie
+- [Irksomehails](https://github.com/irksomehails)
 - Testing purpose
 - Xinyi Xu (https://github.com/last-dino)
 - Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
